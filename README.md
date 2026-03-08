@@ -66,5 +66,5 @@ Python • Machine Learning • Web Interface • OpevCV • Gradio
 
 ##  Connect With Me
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/arfaheemshahnawaz-web
 LinkedIn: https://www.linkedin.com/in/a-r-faheem-shah-nawaz
