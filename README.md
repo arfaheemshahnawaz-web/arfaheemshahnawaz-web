@@ -1,91 +1,81 @@
 <p align="center">
-  <img src="banner.png?v=2" alt="Faheem Banner"/>
+  <img src="banner.png?v=2" />
 </p>
 
-# Hi, I'm Faheem 👋
+<h1 align="center">Hi, I'm Faheem</h1>
 
-🚀 **Full Stack Developer**
-💡 Building intelligent, scalable, real-world web applications
+<p align="center">
+  Full Stack Developer • Backend-Focused  
+  <br/>
+  Building scalable systems & intelligent web applications
+</p>
 
----
-
-## 🧠 About Me
-
-* ⚙️ Full Stack Developer with strong backend & system design focus
-* 🚀 Building scalable web apps & AI-powered systems
-* 📚 Exploring **Machine Learning & System Architecture**
-* 🧩 Passionate about solving real-world problems through code
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages & Frameworks
-
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
-![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge\&logo=php)
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
-
-### ⚙️ Tools & Others
-
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge\&logo=tailwind-css)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge\&logo=postman)
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend-blue" />
+  <img src="https://img.shields.io/badge/Interest-System%20Design-purple" />
+  <img src="https://img.shields.io/badge/Learning-AI%20%26%20ML-green" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-orange" />
+</p>
 
 ---
 
-## 🚀 Projects
+## What I've Built
 
-### 🧠 Smart Attendance System
+### Smart Attendance System — AI-Based
 
-AI-powered attendance using face recognition
+Full-stack attendance platform using face recognition with real-time processing.
 
-**Features:**
+- Role-based dashboards (Admin / Teacher / Student)
+- Real-time face recognition pipeline
+- Attendance analytics and reporting
 
-* Face recognition attendance
-* Role-based dashboards (Admin / Teacher / Student)
-* Attendance analytics & reports
-* Semester management
-
-**Tech:** Next.js • Node.js • MongoDB • JWT
+**Stack:** Next.js • Node.js • MongoDB • JWT
 
 ---
 
-### ⚡ WattWay EV Charging System
+### WattWay — EV Charging Management Platform
 
-EV charging station management platform
+Platform for managing EV charging infrastructure and users.
 
-**Features:**
+- Station and driver management
+- Admin dashboard
+- Real-time availability tracking
 
-* Station & driver management
-* Admin dashboard
-* Real-time availability updates
-
-**Tech:** PHP • MySQL • XAMPP
+**Stack:** PHP • MySQL
 
 ---
 
-### 🧬 AI Dermatology Assistant
+### AI Dermatology Assistant
 
-AI-based skin condition analysis system
+Machine learning-based skin condition analysis system.
 
-**Features:**
+- Image-based diagnosis using ML
+- AI-generated dermatology insights
+- Interactive UI for predictions
 
-* Image-based diagnosis support
-* AI-assisted dermatology insights
-* Interactive user interface
-
-**Tech:** Python • ML • OpenCV • Gradio
+**Stack:** Python • OpenCV • ML • Gradio
 
 ---
 
-## 📊 GitHub Stats
+## Learning & Focus
+
+- Backend architecture & system design  
+- Scalable application development  
+- Machine learning integration in real systems  
+
+---
+
+## Tech Stack
+
+**Backend & Core**  
+`Node.js` `PHP` `MongoDB` `MySQL`
+
+**Frontend & Tools**  
+`Next.js` `TailwindCSS` `Git` `Postman`
+
+---
+
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arfaheemshahnawaz-web&show_icons=true&theme=tokyonight" />
@@ -94,19 +84,20 @@ AI-based skin condition analysis system
 
 ---
 
-## 🎯 Current Focus
+## Where I'm Headed
 
-* 🔥 Full Stack Development
-* 🤖 Machine Learning Integration
-* ⚙️ Building production-ready systems
-
----
-
-## 🌐 Connect With Me
-
-* GitHub: https://github.com/arfaheemshahnawaz-web
-* LinkedIn: https://www.linkedin.com/in/a-r-faheem-shah-nawaz
+Focused on building production-grade backend systems, scalable architectures,  
+and AI-driven applications.
 
 ---
 
-💬 *"Building real systems. Learning from failures. Growing every day."*
+## Contact
+
+- GitHub: https://github.com/arfaheemshahnawaz-web  
+- LinkedIn: https://www.linkedin.com/in/a-r-faheem-shah-nawaz  
+
+---
+
+<p align="center">
+  <i>"Build real systems. Learn from failures. Improve continuously."</i>
+</p>
