@@ -2,7 +2,7 @@
 
 # Hi, I'm Faheem 👋
 
-🚀 **MCA Student | Full Stack Developer**
+ ** Full Stack Developer | Building intelligent, real-world web applications**
 💡 Passionate about building intelligent, real-world web applications
 
 ---
