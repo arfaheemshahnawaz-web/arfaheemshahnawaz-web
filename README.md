@@ -1,4 +1,4 @@
-![GitHub Banner](banner1.png)
+![GitHub Banner](banner.png)
 
 # Hi, I'm Faheem 👋
 
