@@ -1,4 +1,3 @@
-![GitHub Banner](banner.png)
 # Hi, I'm Faheem 👋
 
 🚀 **MCA Student | Full Stack Developer**
