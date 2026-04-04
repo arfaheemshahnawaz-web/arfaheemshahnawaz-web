@@ -1,71 +1,108 @@
 ![GitHub Banner](banner.png)
 # Hi, I'm Faheem 👋
 
- MCA Student  
- Full Stack Developer  
- Passionate about building intelligent web systems  
+🚀 **MCA Student | Full Stack Developer**
+💡 Passionate about building intelligent, real-world web applications
 
 ---
 
-##  Technologies & Tools
+## 🧠 About Me
 
-- JavaScript
-- Next.js
-- Node.js
-- MongoDB
-- PHP
-- MySQL
-- TailwindCSS
-- Git & GitHub
-- Postman
+* 🎓 MCA Student with strong backend & system design interest
+* ⚙️ Building scalable web apps & AI-powered systems
+* 📚 Currently exploring **Machine Learning & System Architecture**
+* 🧩 Love solving real-world problems through code
 
 ---
 
-##  Projects
+## 🛠️ Tech Stack
 
-### Smart Attendance System
-AI-powered attendance system using **face recognition**.
+### 💻 Languages & Frameworks
 
-Features:
-- Face recognition attendance
-- Admin, Teacher & Student dashboards
-- Semester promotion system
-- Attendance analytics
-- PDF report generation
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge\&logo=php)
 
-Tech Stack:
-Next.js, Node.js, MongoDB, JWT
+### 🗄️ Databases
 
----
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
 
-### WattWay EV Charging System
-Web application for managing **EV charging stations**.
+### ⚙️ Tools & Others
 
-Features:
-- Station registration
-- Driver management
-- Admin dashboard
-- Availability updates
-
-Tech Stack:
-PHP, MySQL, XAMPP
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge\&logo=tailwind-css)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge\&logo=postman)
 
 ---
 
-### AI Dermatology Assistant
-AI-powered assistant for **analyzing skin conditions and providing preliminary dermatological insights**.
+## 🚀 Projects
 
-Features:
-- Image-based skin condition analysis
-- AI-assisted dermatology insights
-- User-friendly interface for health queries
+### 🧠 Smart Attendance System
 
-Tech Stack:
-Python • Machine Learning • Web Interface • OpevCV • Gradio
+AI-powered attendance using face recognition
+
+**Features:**
+
+* Face recognition attendance
+* Role-based dashboards (Admin / Teacher / Student)
+* Attendance analytics & reports
+* Semester management
+
+**Tech:** Next.js • Node.js • MongoDB • JWT
 
 ---
 
-##  Connect With Me
+### ⚡ WattWay EV Charging System
 
-GitHub: https://github.com/arfaheemshahnawaz-web
-LinkedIn: https://www.linkedin.com/in/a-r-faheem-shah-nawaz
+EV charging station management platform
+
+**Features:**
+
+* Station & driver management
+* Admin dashboard
+* Real-time availability updates
+
+**Tech:** PHP • MySQL • XAMPP
+
+---
+
+### 🧬 AI Dermatology Assistant
+
+AI-based skin condition analysis system
+
+**Features:**
+
+* Image-based diagnosis support
+* AI-generated dermatology insights
+* Interactive UI for users
+
+**Tech:** Python • ML • OpenCV • Gradio
+
+---
+
+## 📊 GitHub Stats
+
+![Faheem's GitHub stats](https://github-readme-stats.vercel.app/api?username=arfaheemshahnawaz-web\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arfaheemshahnawaz-web\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🎯 Current Focus
+
+* 🔥 Full Stack Development
+* 🤖 Machine Learning Integration
+* ⚙️ Building production-ready systems
+
+---
+
+## 🌐 Connect With Me
+
+* GitHub: https://github.com/arfaheemshahnawaz-web
+* LinkedIn: https://www.linkedin.com/in/a-r-faheem-shah-nawaz
+
+---
+
+💬 *"Building real systems. Learning from failures. Growing every day."*
