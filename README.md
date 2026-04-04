@@ -84,11 +84,9 @@ AI-based skin condition analysis system
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+![Faheem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arfaheemshahnawaz-web&show_icons=true&theme=tokyonight)
 
-![Faheem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arfaheemshahnawaz-web&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arfaheemshahnawaz-web&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arfaheemshahnawaz-web&layout=compact&theme=tokyonight)
 
 ---
 
