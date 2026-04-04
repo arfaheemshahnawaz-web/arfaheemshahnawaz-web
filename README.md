@@ -79,7 +79,7 @@ Machine learning-based skin condition analysis system.
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arfaheemshahnawaz-web&show_icons=true&theme=tokyonight" />
-</p><p>
+</p><p align="center>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arfaheemshahnawaz-web&layout=compact&theme=tokyonight" />
 </p>
 
