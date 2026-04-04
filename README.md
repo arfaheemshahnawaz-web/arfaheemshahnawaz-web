@@ -2,14 +2,14 @@
   <img src="banner.png?v=2" />
 </p>
 
-<h1 align="center">Hi, I'm Faheem 👋</h1>
+<h1>Hi, I'm Faheem 👋</h1>
 
-<p align="center">
+<p>
   Full Stack Developer · Backend-Focused<br/>
   I build real systems, integrate AI into production, and learn in public.
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   <img src="https://img.shields.io/badge/arfaheemshahnawaz--web-181717?style=flat&logo=github&logoColor=white" />
