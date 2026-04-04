@@ -1,3 +1,5 @@
+![GitHub Banner](banner1.png)
+
 # Hi, I'm Faheem 👋
 
 🚀 **MCA Student | Full Stack Developer**
