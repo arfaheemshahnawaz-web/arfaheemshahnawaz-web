@@ -1,18 +1,20 @@
-![GitHub Banner](banner.png)
+<p align="center">
+  <img src="banner.png?v=2" alt="Faheem Banner"/>
+</p>
 
 # Hi, I'm Faheem 👋
 
- ** Full Stack Developer | Building intelligent, real-world web applications**
-💡 Passionate about building intelligent, real-world web applications
+🚀 **Full Stack Developer**
+💡 Building intelligent, scalable, real-world web applications
 
 ---
 
 ## 🧠 About Me
 
-* 🎓 MCA Student with strong backend & system design interest
-* ⚙️ Building scalable web apps & AI-powered systems
-* 📚 Currently exploring **Machine Learning & System Architecture**
-* 🧩 Love solving real-world problems through code
+* ⚙️ Full Stack Developer with strong backend & system design focus
+* 🚀 Building scalable web apps & AI-powered systems
+* 📚 Exploring **Machine Learning & System Architecture**
+* 🧩 Passionate about solving real-world problems through code
 
 ---
 
@@ -76,8 +78,8 @@ AI-based skin condition analysis system
 **Features:**
 
 * Image-based diagnosis support
-* AI-generated dermatology insights
-* Interactive UI for users
+* AI-assisted dermatology insights
+* Interactive user interface
 
 **Tech:** Python • ML • OpenCV • Gradio
 
@@ -85,9 +87,11 @@ AI-based skin condition analysis system
 
 ## 📊 GitHub Stats
 
-![Faheem's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=arfaheemshahnawaz-web&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arfaheemshahnawaz-web&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arfaheemshahnawaz-web&layout=compact&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arfaheemshahnawaz-web&layout=compact&theme=tokyonight)
 ---
 
 ## 🎯 Current Focus
