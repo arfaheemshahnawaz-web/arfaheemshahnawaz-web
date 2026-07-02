@@ -2,10 +2,6 @@
   <img src="banner.png?v=2" />
 </p>
 
-<p align="center">
-  <img src="banner.png?v=2" />
-</p>
-
 <h1>Hi, I'm Faheem 👋</h1>
 
 <p>
